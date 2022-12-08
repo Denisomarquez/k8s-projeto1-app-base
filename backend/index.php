@@ -18,5 +18,3 @@ if ($link->query($query) === TRUE) {
   echo "Error: " . $link->error;
 }
 ?>
-Footer
-© 2022 GitHub, Inc.
